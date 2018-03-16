@@ -1,0 +1,3 @@
+# wxShareTitleHack
+对于微信分享出去的未做SSR的SPA应用，可以动态修改其html的title属性，从而改变分享的链接标题
+
